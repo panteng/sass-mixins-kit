@@ -20,6 +20,14 @@ A bunch of useful sass/scss mixins that help you write sass/scss faster.
     
     Before using this mixin, I recommend you to try Flexbox Layout or `display: inline` first. They are better solutions.
     
+        ul {
+                @include clearfix();
+                
+                li {
+                    float: left;
+                }
+            }
+    
 2. text-ellipsis
 
     Display an ellipsis('...') at the end of overflowed texts.
