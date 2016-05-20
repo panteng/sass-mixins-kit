@@ -7,5 +7,6 @@
     "url": "git+https://github.com/panteng/sass-mixins-kit.git"
   },
   "author": "Chris Pan <panteng@outlook.com> (http://panteng.me)",
+  "main": "./sass-mixins-kit.scss",
   "license": "MIT"
 }
