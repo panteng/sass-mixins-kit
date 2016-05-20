@@ -1,6 +1,6 @@
 {
   "name": "sass-mixins-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A bunch of useful scss/sass mixins that help you write scss/sass faster.",
   "repository": {
     "type": "git",
